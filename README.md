@@ -58,4 +58,5 @@ If you want to make a test build use :
 lime test windows -debug (debug suffix is very important for test command)
 
 Now you can compile FNF source code!
-Note : sometimes kade engine doesn't work but eh at least you can compile psychEngine
+
+note : if you got an error or if you want to compile another engine, make a issue here ! https://github.com/YouDevsYoupikmin/FNF-COMPILER/pulls
