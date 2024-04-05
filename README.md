@@ -10,10 +10,14 @@ I know how it's messy to found every haxe librairies then i made a batch install
 Supported engines :
 
 Psych Engine
+
 OS Engine
+
 Kade Engine
+
 Forever Engine
-Psych Engine
+
+Izzy Engine
 
 Note : You need a performant computer for compiling | with a old computer like mine it's 30min of compiling but basically it's 5-15 minutes.
 
