@@ -53,5 +53,5 @@ If you want to make a test build use :
 
 lime test windows -debug (debug suffix is very important for test command)
 
-If you want to make a x86 build use :
-
+Now you can compile FNF source code!
+Note : sometimes kade engine doesn't work but eh at least you can compile psychEngine
