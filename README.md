@@ -59,4 +59,4 @@ lime test windows -debug (debug suffix is very important for test command)
 
 Now you can compile FNF source code!
 
-note : if you got an error or if you want to compile another engine, make a issue here ! https://github.com/YouDevsYoupikmin/FNF-COMPILER/pulls
+note : if you got an error or if you want to compile another engine, make a issue here ! https://github.com/YouDevsYoupikmin/FNF-COMPILER/issues/
