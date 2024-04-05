@@ -1,1 +1,1 @@
-Coming soon don't worry
+Coming soon for windows!
