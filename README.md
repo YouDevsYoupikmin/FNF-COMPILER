@@ -1,4 +1,4 @@
-# Friday Night Funkin' COMPILER
+# Friday Night Funkin' COMPILER (BETA)
 <!-- ![logo](art/logow.png) FNF LOGO-->
 
 Hiiii
@@ -53,9 +53,12 @@ Now you need to use the correct command for compiling
  
 ![image](https://github.com/YouDevsYoupikmin/FNF-COMPILER/assets/132922421/4a865346-3709-45c8-a18f-7a807b78d08a)
 
+## Lime commands:
 
-The syntax is very important, enter command like this : lime test (or build for release build) windows (or macOS, linux...) -debug 
+The syntax is very important, the command should start with "lime" after that use "build" (or test) and -release (or -debug)
 * (note : debug is optionnal)
+* if you have an error like "lime is not a iternal or external command", use "haxelib run lime setup" and ignore the update for HXCPP (press n and enter)
+* You can use "haxelib run lime" instead of lime command prefix
 
 If you want to make a release build use :
 
