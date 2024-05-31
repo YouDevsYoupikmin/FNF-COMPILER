@@ -1,5 +1,5 @@
 # Friday Night Funkin' COMPILER (BETA)
-<!-- ![logo](art/logow.png) FNF LOGO-->
+![logo](transparent.png)
 
 Hiiii
 
