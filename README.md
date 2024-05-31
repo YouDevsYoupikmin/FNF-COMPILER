@@ -21,9 +21,11 @@ Izzy Engine
 
 Note : You need a performant computer for compiling | with a old computer like mine it's 30min of compiling but basically it's 5-15 minutes.
 
-If you want to compile the game, go to art/ and open the batch files.
-Or you can use a CMD command to enter command manually.
+------------------------------------------------------------------------------------
+You just need to open installer.bat or .sh for MAC and follow installation steps!
 
+After that, if you want to compile the game go to art/ and open the batch files.
+Or you can use a CMD command to enter command manually. (not in art folder,the default folder)
 
 Step 1
 Open CMD Prompt ( WINDOWS + R ) and enter CMD
@@ -55,7 +57,8 @@ lime build windows -release
 
 If you want to make a test build use :
 
-lime test windows -debug (debug suffix is very important for test command)
+lime test windows -debug
+The command test is recommanded because the game gonna compile only edited files.
 
 Now you can compile FNF source code!
 
