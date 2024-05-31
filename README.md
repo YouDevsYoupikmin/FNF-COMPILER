@@ -8,7 +8,7 @@ If not then uhh what are you doing here? Go watch this *awesome* video --> https
 
 If yes then you are in the good place!
 
-I know how it's messy to found every haxe librairies then i made a batch installer for it.
+I know how it's messy to found every haxe librairies for different engines then i made a batch installer for it.
 
 Supported engines :
 
