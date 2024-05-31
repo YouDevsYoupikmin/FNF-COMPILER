@@ -31,6 +31,7 @@ You just need to open installer.bat or .sh for MAC and follow installation steps
 After that, if you want to compile the game go to art/ and open the batch files.
 Or you can use a CMD command to enter command manually. (not in art folder, the default folder)
 
+## Compile the game:
 Step 1
 Open CMD Prompt ( WINDOWS + R ) and enter CMD
 
