@@ -1,3 +1,6 @@
+# Friday Night Funkin' COMPILER
+<!-- ![logo](art/logow.png) FNF LOGO-->
+
 Hiiii
 
 I guess you want to compile FNF ?
@@ -22,10 +25,11 @@ Izzy Engine
 Note : You need a performant computer for compiling | with a old computer like mine it's 30min of compiling but basically it's 5-15 minutes.
 
 ------------------------------------------------------------------------------------
+## Installation:
 You just need to open installer.bat or .sh for MAC and follow installation steps!
 
 After that, if you want to compile the game go to art/ and open the batch files.
-Or you can use a CMD command to enter command manually. (not in art folder,the default folder)
+Or you can use a CMD command to enter command manually. (not in art folder, the default folder)
 
 Step 1
 Open CMD Prompt ( WINDOWS + R ) and enter CMD
@@ -49,7 +53,8 @@ Now you need to use the correct command for compiling
 ![image](https://github.com/YouDevsYoupikmin/FNF-COMPILER/assets/132922421/4a865346-3709-45c8-a18f-7a807b78d08a)
 
 
-The syntax is very important, enter command like this : lime test (or build for release build) windows (or macOS, linux...) -debug (note : debug is optionnal)
+The syntax is very important, enter command like this : lime test (or build for release build) windows (or macOS, linux...) -debug 
+* (note : debug is optionnal)
 
 If you want to make a release build use :
 
