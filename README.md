@@ -44,7 +44,7 @@ Paste it in CMD prompt with "CD" suffix and press enter
 
 Step 3
 Now you need to use the correct command for compiling
-example :
+\nexample :
  
 ![image](https://github.com/YouDevsYoupikmin/FNF-COMPILER/assets/132922421/4a865346-3709-45c8-a18f-7a807b78d08a)
 
