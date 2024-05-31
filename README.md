@@ -44,7 +44,7 @@ Paste it in CMD prompt with "CD" suffix and press enter
 
 Step 3
 Now you need to use the correct command for compiling
-(example for build command):
+* (example for build command):
  
 ![image](https://github.com/YouDevsYoupikmin/FNF-COMPILER/assets/132922421/4a865346-3709-45c8-a18f-7a807b78d08a)
 
@@ -58,7 +58,7 @@ lime build windows -release
 If you want to make a test build use :
 
 lime test windows -debug
-*The command test is recommanded because the game gonna compile only edited files.
+The command test is recommanded because the game gonna compile only edited files.
 
 Now you can compile FNF source code!
 
