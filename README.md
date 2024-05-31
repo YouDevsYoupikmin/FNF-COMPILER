@@ -27,6 +27,7 @@ Note : You need a performant computer for compiling | with a old computer like m
 ------------------------------------------------------------------------------------
 ## Installation:
 You just need to open installer.bat or .sh for MAC and follow installation steps!
+* note : for mac and linux you should have [haxe](https://haxe.org/download/version/4.2.5/) and [git-scm]([https://haxe.org/download/version/4.2.5/](https://git-scm.com/downloads))
 
 After that, if you want to compile the game go to art/ and open the batch files.
 Or you can use a CMD command to enter command manually. (not in art folder, the default folder)
@@ -35,11 +36,7 @@ Or you can use a CMD command to enter command manually. (not in art folder, the 
 Step 1
 Open CMD Prompt ( WINDOWS + R ) and enter CMD
 
-
-
 ![image](https://github.com/YouDevsYoupikmin/FNF-COMPILER/assets/132922421/8162b330-86d5-4c78-96b8-4dbf99e7eb71)
-
-
 
 Step 2
 Go to windows explorer and copy source code localisation
