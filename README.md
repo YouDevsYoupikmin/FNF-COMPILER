@@ -54,7 +54,7 @@ Now you need to use the correct command for compiling
 
 The syntax is very important, the command should start with "lime" after that use "build" (or test) and -release (or -debug)
 * (note : debug is optionnal)
-* if you have an error like "lime is not a iternal or external command", use "haxelib run lime setup" and ignore the update for HXCPP (press n and enter)
+* if you have an error like "lime is not a internal or external command", use "haxelib run lime setup" and ignore the update for HXCPP (press n and enter)
 * You can use "haxelib run lime" instead of lime command prefix
 
 If you want to make a release build use :
